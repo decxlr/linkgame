@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70sp"
+        android:text="@string/link"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/forestgreen"
+        />
+
+    <Button
+        android:id="@+id/start_game"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="90dp"
+        android:text="@string/start_game"
+        android:textSize="15sp"
+        android:backgroundTint="@color/forestgreen"
+        />
+
+    <Button
+        android:id="@+id/rank"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/game_rank"
+        android:backgroundTint="@color/forestgreen"
+        />
+
+    <Button
+        android:id="@+id/rule"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/game_rule"
+        android:backgroundTint="@color/forestgreen"
+        />
+
+    <Button
+        android:id="@+id/exit_game"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/game_exit"
+        android:backgroundTint="@color/forestgreen"
+        />
+
+</LinearLayout>

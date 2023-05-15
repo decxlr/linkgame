@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">连连看</string>
+    <string name="start_game">开始游戏</string>
+    <string name="game_over">游戏结束</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="exit">退出</string>
+    <string name="are_you_quit">您确定要退出游戏吗？</string>
+    <string name="surplus">时间:</string>
+    <string name="game_pass">游戏通关</string>
+    <string name="congratulations">恭喜</string>
+    <string name="next">下一关</string>
+    <string name="now_score">当前分数:</string>
+    <string name="game_rank">排行榜</string>
+    <string name="link">连连看</string>
+    <string name="game_rule">游戏规则</string>
+    <string name="game_exit">退出游戏</string>
+    <string name="rule_detail">连连看是玩家将2个相同图案连接起来。第一次点击牌池里的图案，该图案此时为“被选中”，再点击你所看到的另一个相同图案，如果两个图案中间的连线不超过三根，这两个相同的图案就会被消掉。如果图案不相同或者两个相同图案之间的线超过3根，系统会将第一个图案恢复成没被选中的状态。
+</string>
+    <string name="play_rule">游戏玩法:</string>
+    <string name="score_rule">积分规则:</string>
+    <string name="score_detail">每消除一个图案加十分,最后根据通关的剩余时间加分，每剩余一秒加十分。</string>
+    <string name="name">昵称</string>
+    <string name="score">分数</string>
+    <string name="time">时间</string>
+    <string name="rank">排名</string>
+    <string name="your_score">你的分数是:</string>
+    <string name="input_name">请输入你的昵称</string>
+    <string name="score_0">当前分数:0</string>
+    <string name="need_pic">剩余图案数:</string>
+    <string name="first_stage">第1关</string>
+    <string name="stoping">游戏暂停中</string>
+    <string name="go">继续</string>
+    <string name="reinit">将图案重新排列</string>
+    <string name="stop">游戏暂停</string>
+    <string name="input_searchname">请输入要搜索的昵称</string>
+
+</resources>
